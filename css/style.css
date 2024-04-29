@@ -1,22 +1,22 @@
-
-	main {
+/* css styling */
+	/* stylizing the title */ main {
   background: #BBADFD;
   font-size: 40px;
   padding: 3rem;
-  width: 500px;
+  width: 500px; /* adjusts the width of items */ 
   text-align: center;
   margin: 1em auto;
 }
-nav {
-  background: #D1B0B0;
+/* stylizing navigation bar on top */ nav {
+  background: #D1B0B0; /* calming warm neutral color */
   padding: 1.5rem;
 }
-body {
+/* stylizing the entire body */ body {
   text-align: center;
   background: #F8EFE8;
   font-size: 30px;
 }
-		span {
+		/* stylizing one part of body */ span {
 			background: #EDECB8; 
 			height: 130px;
 			padding: 1rem;
@@ -28,14 +28,14 @@ body {
 			
 		}
 		
-		div  {
+		/* stylizing next part of body */ div  {
 			background: #EDECB8; 
 			width: 400px;
 			padding: 1.5rem;
 			width: 180px;
 			margin-left: 10em;
 		}
-	article {
+	/* stylizing another part of body */ article {
 		float: right;
 		width: 340px;
 		margin-left: 15em;
@@ -43,7 +43,7 @@ body {
 		margin-top: -26.1em;
 		background: #B8EDCD;
 	}
-		section {
+		/* stylizing final part of body */ section {
 		float: left;
 		width: 280px;
 		margin-left: 9em;
